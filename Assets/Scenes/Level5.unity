@@ -242,10 +242,11 @@ MonoBehaviour:
     players\u2019 physical reflex and puzzle-solving. In the game, the player tries
     to escape a bioengineering lab, in which the player is engineered to have a vision
     seeing everything as geometric shapes. The vision also allows the player to see
-    the world in extra slow-motion, and even control some of the objects in the lab!\n\nThere
-    are many different sound effects for different actions in the game, as well as
-    a wonderful looping background music. All the sound used is downloaded from Game
-    Center Audio Bank, and all visuals are primitives. \n"
+    the world in extra slow-motion, dash through spaces, and even control some of
+    the objects in the lab!\n\nThere are many different sound effects for different
+    actions in the game, as well as a wonderful looping background music. All the
+    sound used is downloaded from Game Center Audio Bank, and all visuals are primitives.
+    \n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: dc36b3fdc14f47ebb36fd484a67e268a, type: 2}
   m_sharedMaterial: {fileID: 2140032, guid: dc36b3fdc14f47ebb36fd484a67e268a, type: 2}
@@ -374,7 +375,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -2.2506, y: -0.1867}
+  m_AnchoredPosition: {x: -2.27, y: 0.11}
   m_SizeDelta: {x: 10.3475, y: 6.9414}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1541470440
